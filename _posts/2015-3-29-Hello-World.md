@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The road to becoming a software engineer
+title: The Road to Becoming a Software Engineer
 ---
 
 Steve Jobs once said:
