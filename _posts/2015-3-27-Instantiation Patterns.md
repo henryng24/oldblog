@@ -3,7 +3,7 @@ layout: post
 title: Instantiation Patterns
 ---
 
-Don't you wish that everytime your younger sibling made you a grilled cheese, it would always be the same?
+Don't you wish that everytime your younger sibling made you a grilled cheese, you would need to teach them and it would always be the same?
 
 This post will show you how you can make that possible... sort of.
 
