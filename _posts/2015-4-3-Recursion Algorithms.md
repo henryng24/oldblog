@@ -12,10 +12,15 @@ First of all, here's what you're tasked with:
 For a given n, find the nth Fibonacci number. If you don't recall how Fibonacci numbers work - long story short, the sum of the nth number is equivalent to the sum of the two previous Fibonacci numbers. For example:
 
 fib(0) = 0
+
 fib(1) = 1
+
 fib(2) = 1
+
 fib(3) = 2
+
 fib(4) = 3
+
 fib(5) = 5
 
 1) Visualize how your function looks like in a tree diagram. Recursion problems can typically be broken down into smaller branches of an overall tree, representing the whole problem. If we were trying to find the 5th Fibonacci number, here's how the tree would look like.
