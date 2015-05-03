@@ -27,7 +27,7 @@ fib(5) = 5
 
 ![_config.yml]({{ site.baseurl }}/images/Recursion.png)
 
-Despite how this diagram looks, I've also learned that my imagination of what I thought of recursion was proved to be incorrect. The branches that stem out don't happen simutaneously! What really happens is a a depth search of fib(4) first - so the function works through the left-most functions to the right-most functions. There is no explosion magic that makes everything happen at once!
+Despite how this diagram looks, I've also learned that my imagination of what I thought of recursion was proved to be incorrect - at least in this case. The branches that stem out don't happen simutaneously! What really happens is a depth search (breadth search strategy to be explained in a later blog post) of fib(4) first - so the function works through the left-most functions to the right-most functions. There is no explosion magic that makes everything happen at once!
 
 2) Determine first how you will break the problem down into the smallest piece possible. Aim to solve just one of the branches first. Then analyze how you could adjust it to produce an end result that could be applied to every branch.
 
