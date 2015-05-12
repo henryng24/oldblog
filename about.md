@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-An full stack software engineer and entrepreneur, Henry is passionate about scalable technology that makes a difference in our lives.
+Henry is a full stack software engineer and budding entrepreneur. He is passionate about scalable technology that makes a difference in our lives. He loves to meet new people so don't be shy!
 
 ### Contact me
 
