@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+layout: default
 ---
 
 Check out the cool projects I've worked on!
