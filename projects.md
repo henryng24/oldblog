@@ -26,4 +26,4 @@ Henry Ng
 Brandon Ellis
 Adam Van Antwerp
 Craig Smith
-![_config.yml]({{ site.baseurl }}/images/ItemChimp.png)
+![_config.yml]({{ site.baseurl }}/images/Item.png)
