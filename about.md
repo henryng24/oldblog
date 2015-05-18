@@ -9,3 +9,4 @@ Henry is a full stack software engineer and budding entrepreneur. He is passiona
 ### Contact me
 
 [henryfc.ng@gmail.com](mailto:email@domain.com)
+[Check out my AngelList profile!](https://angel.co/henryng24)
