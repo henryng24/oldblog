@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recursion Algorithms
+title: Recursive Algorithms
 ---
 
 A dream within a dream.
