@@ -5,7 +5,7 @@ title: The Event Loop
 
 As you dive deeper into JavaScript, you'll start hearing that JavaScript is single-threaded, and you might be wondering --- "What exactly does that mean?"
 
-The concept of single-threadedness is quite simple actually. It just means that each line of JavaScript is interpreted one line at a time. Where things might get confusing is when JavaScript meets your browser.
+The concept of single-threadedness is quite simple actually. All processes are run on a single thread. Where things might get confusing is when JavaScript meets your browser.
 
 Here's an image that may be helpful to your understanding.
 
