@@ -37,6 +37,8 @@ When it comes to time and space complexity as the input becomes large. In the gr
 
 On the same note, we don't care whether if it's 2,000,000 (2X) apples or 3,000,000 (3X) apples as the input is still large. Focusing on those constant factors are equally inconsequential since our input has no impact on the multiplier.
 
+Having dropped our constant factors, we end up with a Big O notation of O(N), which means a for loop has a linear time complexity!
+
 Space complexity can be approached the same way!
 
 Try it yourself! What do you think the Big O notation of one for loop and another for loop nested within that for loop is?
