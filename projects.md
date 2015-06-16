@@ -7,6 +7,17 @@ permalink: /projects/
 Check out the cool projects I've worked on!
 
 
+[PrivateTable - A private event planning and discovery platform.](http://www.privatetable.io/)
+
+Team:
+Henry Ng,
+Craig Smith,
+Lindsay Pond
+
+
+![_config.yml]({{ site.baseurl }}/images/PrivateTable.png)
+
+
 [Inkwell - A creative writing platform for writers of any experience!](http://inkwell.henryng.co/)
 
 Team:
