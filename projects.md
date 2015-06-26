@@ -9,6 +9,8 @@ Check out the cool projects I've worked on!
 
 [PrivateTable - A private event planning and discovery platform.](http://www.privatetable.io/)
 
+Search "San Francisco" for the full effect!
+
 Team:
 Henry Ng,
 Craig Smith,
